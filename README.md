@@ -1,2 +1,3 @@
-# Frequency-meter
-Final project for the course digital signal processing
+# 项目介绍
+两年后回来再整理自己的项目，发现当初自己真的很青涩呢，也是大学难得得和肖遥合作的机会（这次以后一直被嫌弃了orz....
+
